@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppTaskInkrementDekrement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccfed4d724a7d058654b0e5d69aa87dc5c1688d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppTaskInkrementDekrement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppTaskInkrementDekrement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@ D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\r
 D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.pdb
 D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.genruntimeconfig.cache
 D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ref\ConsoleAppTaskInkrementDekrement.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.sourcelink.json

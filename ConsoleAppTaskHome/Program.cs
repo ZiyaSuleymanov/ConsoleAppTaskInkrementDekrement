@@ -9,6 +9,7 @@
 
             double salary = Convert.ToDouble(inputWorkerSalary);
             salary += salary * 11;
+
             Console.WriteLine("Worker's annual salary: " + salary);
 
         }

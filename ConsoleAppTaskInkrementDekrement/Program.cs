@@ -22,6 +22,7 @@
             Console.WriteLine("Fourth result: " + fourth);*/
 
             
+
               
             int a = 5;
             int b = a++ + ++a + --a + a--;//d=5 c=6, d=12 c=7, d=18 c=6, d=24 c=5

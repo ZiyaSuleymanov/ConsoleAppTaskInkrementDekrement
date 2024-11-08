@@ -6,6 +6,8 @@
         {
             Console.Write("Enter Fahrenheit: ");
             string inputTemperature = Console.ReadLine();
+
+
             
             
             double temperature = Convert.ToDouble(inputTemperature);
