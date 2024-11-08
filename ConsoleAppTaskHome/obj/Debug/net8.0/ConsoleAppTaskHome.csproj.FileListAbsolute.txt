@@ -1,0 +1,14 @@
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\bin\Debug\net8.0\ConsoleAppTaskHome.exe
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\bin\Debug\net8.0\ConsoleAppTaskHome.deps.json
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\bin\Debug\net8.0\ConsoleAppTaskHome.runtimeconfig.json
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\bin\Debug\net8.0\ConsoleAppTaskHome.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\bin\Debug\net8.0\ConsoleAppTaskHome.pdb
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\ConsoleAppTaskHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\ConsoleAppTaskHome.AssemblyInfoInputs.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\ConsoleAppTaskHome.AssemblyInfo.cs
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\ConsoleAppTaskHome.csproj.CoreCompileInputs.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\ConsoleAppTaskHome.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\refint\ConsoleAppTaskHome.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\ConsoleAppTaskHome.pdb
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\ConsoleAppTaskHome.genruntimeconfig.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskHome\obj\Debug\net8.0\ref\ConsoleAppTaskHome.dll

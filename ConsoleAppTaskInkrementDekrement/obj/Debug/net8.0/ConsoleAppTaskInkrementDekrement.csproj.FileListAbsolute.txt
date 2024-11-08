@@ -1,0 +1,14 @@
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\bin\Debug\net8.0\ConsoleAppTaskInkrementDekrement.exe
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\bin\Debug\net8.0\ConsoleAppTaskInkrementDekrement.deps.json
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\bin\Debug\net8.0\ConsoleAppTaskInkrementDekrement.runtimeconfig.json
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\bin\Debug\net8.0\ConsoleAppTaskInkrementDekrement.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\bin\Debug\net8.0\ConsoleAppTaskInkrementDekrement.pdb
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.AssemblyInfoInputs.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.AssemblyInfo.cs
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.csproj.CoreCompileInputs.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\refint\ConsoleAppTaskInkrementDekrement.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.pdb
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ConsoleAppTaskInkrementDekrement.genruntimeconfig.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskInkrementDekrement\obj\Debug\net8.0\ref\ConsoleAppTaskInkrementDekrement.dll

@@ -1,0 +1,14 @@
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\ConsoleAppTaskTemperature.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\ConsoleAppTaskTemperature.AssemblyInfoInputs.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\ConsoleAppTaskTemperature.AssemblyInfo.cs
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\ConsoleAppTaskTemperature.csproj.CoreCompileInputs.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\bin\Debug\net8.0\ConsoleAppTaskTemperature.exe
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\bin\Debug\net8.0\ConsoleAppTaskTemperature.deps.json
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\bin\Debug\net8.0\ConsoleAppTaskTemperature.runtimeconfig.json
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\bin\Debug\net8.0\ConsoleAppTaskTemperature.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\bin\Debug\net8.0\ConsoleAppTaskTemperature.pdb
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\ConsoleAppTaskTemperature.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\refint\ConsoleAppTaskTemperature.dll
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\ConsoleAppTaskTemperature.pdb
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\ConsoleAppTaskTemperature.genruntimeconfig.cache
+D:\Yeni yuklemeler D\C#tasks\ConsoleAppTaskTemperature\obj\Debug\net8.0\ref\ConsoleAppTaskTemperature.dll
